@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<college>
+    <class1>
+        <name>Hammad</name>
+        <age>20</age>
+        <department>BSCS</department>
+    </class1>
+    <class2>
+        <name>Hammad</name>
+        <age>20</age>
+        <department>BSCS</department>
+    </class2>
+</college>
+

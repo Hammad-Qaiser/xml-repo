@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<foodlist>
+    <fooditem>
+        <name>Pizza</name>
+        <cost>$1.5</cost>
+    </fooditem>
+    <fooditem>
+        <name>Burger</name>
+        <cost>$2.5</cost>
+    </fooditem>
+    <fooditem>
+        <name>Chinese</name>
+        <cost>$1.0</cost>
+    </fooditem>
+</foodlist>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<emp-table>
+    <name1>
+    <name>Asim</name>
+    <id>103</id>
+    <salary>5000</salary>
+    <Joining-date>2-2-2015</Joining-date>
+    <Position>Manager</Position>
+</name1>
+<name2>    
+    <name>Basim</name>
+    <id>104</id>
+    <salary>6000</salary>
+    <Joining-date>3-5-1990</Joining-date>
+    <Position>Clerk</Position>
+</name2>
+<name3>
+    <name>Jasim</name>
+    <id>105</id>
+    <salary>7000</salary>
+    <Joining-date>4-4-2017</Joining-date>
+    <Position>CEO</Position>
+</name3>
+<name4>
+    <name>Qasim</name>
+    <id>106</id>
+    <salary>8000</salary>
+    <Joining-date>8-10-2015</Joining-date>
+    <Position>Manager</Position>
+</name4>
+</emp-table>
